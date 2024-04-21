@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.morsetranslator.Stage1UnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-04-08T14:46:28" hostname="priyas-air" time="23.868">
+  <properties/>
+  <testcase name="test00_checkTvTextInitialState" classname="org.hyperskill.morsetranslator.Stage1UnitTest" time="21.535"/>
+  <testcase name="test01_checkTvMorseInitialState" classname="org.hyperskill.morsetranslator.Stage1UnitTest" time="0.575"/>
+  <testcase name="test02_checkEtTextInitialState" classname="org.hyperskill.morsetranslator.Stage1UnitTest" time="0.575"/>
+  <testcase name="test03_checkEtMorseInitialState" classname="org.hyperskill.morsetranslator.Stage1UnitTest" time="0.388"/>
+  <testcase name="test04_checkBtClearInitialState" classname="org.hyperskill.morsetranslator.Stage1UnitTest" time="0.451"/>
+  <testcase name="test05_checkBtGuideInitialState" classname="org.hyperskill.morsetranslator.Stage1UnitTest" time="0.343"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/Users/priyagupta/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

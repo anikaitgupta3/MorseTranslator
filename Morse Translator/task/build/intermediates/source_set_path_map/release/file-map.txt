@@ -1,0 +1,24 @@
+org.hyperskill.morsetranslator.Morse_Translator-task-transition-1.2.0-0 /Users/priyagupta/.gradle/caches/transforms-3/0b84a3a62a771a7bfe7fa4b76bdf96a0/transformed/transition-1.2.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-jetified-savedstate-1.1.0-1 /Users/priyagupta/.gradle/caches/transforms-3/19151b55d49cfbf52089e58d995c73ed/transformed/jetified-savedstate-1.1.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-jetified-annotation-experimental-1.1.0-2 /Users/priyagupta/.gradle/caches/transforms-3/1c063df92fd5d42862b5ebc8c91e146e/transformed/jetified-annotation-experimental-1.1.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-jetified-appcompat-resources-1.3.1-3 /Users/priyagupta/.gradle/caches/transforms-3/1ffa6aa892fb702c8035b332a667eb70/transformed/jetified-appcompat-resources-1.3.1/res
+org.hyperskill.morsetranslator.Morse_Translator-task-jetified-core-ktx-1.6.0-4 /Users/priyagupta/.gradle/caches/transforms-3/20632eee7cc37993400388eb9f49ecee/transformed/jetified-core-ktx-1.6.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-jetified-viewpager2-1.0.0-5 /Users/priyagupta/.gradle/caches/transforms-3/38af52430b2fef5ab8953c05a2fab055/transformed/jetified-viewpager2-1.0.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-coordinatorlayout-1.1.0-6 /Users/priyagupta/.gradle/caches/transforms-3/4f2f608462b96cfbc98757158ca31059/transformed/coordinatorlayout-1.1.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-appcompat-1.3.1-7 /Users/priyagupta/.gradle/caches/transforms-3/571458df5af54f81f7d376498d0afb32/transformed/appcompat-1.3.1/res
+org.hyperskill.morsetranslator.Morse_Translator-task-fragment-1.3.6-8 /Users/priyagupta/.gradle/caches/transforms-3/5d6d783ce87cdfbb967098beea7b9a8c/transformed/fragment-1.3.6/res
+org.hyperskill.morsetranslator.Morse_Translator-task-constraintlayout-2.1.3-9 /Users/priyagupta/.gradle/caches/transforms-3/5d8a3c4224bbced0ac8e2a1c207165e5/transformed/constraintlayout-2.1.3/res
+org.hyperskill.morsetranslator.Morse_Translator-task-cardview-1.0.0-10 /Users/priyagupta/.gradle/caches/transforms-3/60585cec18e4bec2f9dc0dd8fa8ebb01/transformed/cardview-1.0.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-material-1.4.0-11 /Users/priyagupta/.gradle/caches/transforms-3/70e949c4f63f0232ed1a47d5639d89af/transformed/material-1.4.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-core-1.6.0-12 /Users/priyagupta/.gradle/caches/transforms-3/aa8648f242c2a96df09f8a817f90ac0f/transformed/core-1.6.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-lifecycle-viewmodel-2.3.1-13 /Users/priyagupta/.gradle/caches/transforms-3/b0a8d1f108e40c243c836a6fe4f286f8/transformed/lifecycle-viewmodel-2.3.1/res
+org.hyperskill.morsetranslator.Morse_Translator-task-lifecycle-runtime-2.3.1-14 /Users/priyagupta/.gradle/caches/transforms-3/b91501f9ddd845ce2a4c6177c93589a7/transformed/lifecycle-runtime-2.3.1/res
+org.hyperskill.morsetranslator.Morse_Translator-task-recyclerview-1.1.0-15 /Users/priyagupta/.gradle/caches/transforms-3/dc0d85a4c48264d36288ff3ecb8b4396/transformed/recyclerview-1.1.0/res
+org.hyperskill.morsetranslator.Morse_Translator-task-pngs-16 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/build/generated/res/pngs/release
+org.hyperskill.morsetranslator.Morse_Translator-task-resValues-17 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/build/generated/res/resValues/release
+org.hyperskill.morsetranslator.Morse_Translator-task-rs-18 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/build/generated/res/rs/release
+org.hyperskill.morsetranslator.Morse_Translator-task-mergeReleaseResources-19 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.hyperskill.morsetranslator.Morse_Translator-task-mergeReleaseResources-20 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.hyperskill.morsetranslator.Morse_Translator-task-merged_res-21 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/build/intermediates/merged_res/release
+org.hyperskill.morsetranslator.Morse_Translator-task-main-22 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/src/main/res
+org.hyperskill.morsetranslator.Morse_Translator-task-release-23 /Users/priyagupta/AndroidStudioProjects/Morse Translator/Morse Translator/task/src/release/res

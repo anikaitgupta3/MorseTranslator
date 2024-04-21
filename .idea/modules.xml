@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Morse_Translator.iml" filepath="$PROJECT_DIR$/.idea/modules/Morse_Translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Morse Translator/task/Morse_Translator.Morse_Translator-task.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Morse_Translator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Morse_Translator.util.iml" />
+    </modules>
+  </component>
+</project>

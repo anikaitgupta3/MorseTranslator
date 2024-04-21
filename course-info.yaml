@@ -1,0 +1,14 @@
+type: hyperskill
+title: Morse Translator
+language: English
+summary: "<p>Morse code, a simple yet effective method of communication, has been\
+  \ used for centuries. In this project, you'll create a Morse code translator, a\
+  \ unique tool that converts text to Morse code and vice versa. This isn't just a\
+  \ coding exercise, it's a chance to bring a piece of historical communication into\
+  \ the digital age.</p><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/417?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/417</a>"
+programming_language: Kotlin
+environment: Android
+content:
+  - Morse Translator
+mode: Study
